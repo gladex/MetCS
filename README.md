@@ -7,6 +7,6 @@ Systematic integration of MetCS Information across multiple CLs from the ENC Con
   - TFBS
   - RRBS
 3. Runing Example:
-	- 1)
-	- 2)
+  - 1)
+  - 2)
 4. Etc.
