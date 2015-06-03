@@ -12,4 +12,4 @@ Systematic integration of MetCS Information across multiple CLs from the ENC Con
 3. Runing Example:
 	- 1)
 	- 2)	
-4. Etc.
+4. Etc:
